@@ -31,7 +31,10 @@ Passionate about transforming raw data into meaningful insights.
 I’ll be adding SQL, Excel, Power BI, and Python projects here.
 
 ---
-## 🔗 Connect With Me
-[LinkedIn Profile]: (https://www.linkedin.com/in/maheshupase)
+## 🔗 Connect With Me  
+
+[LinkedIn Profile](https://www.linkedin.com/in/maheshupase)
+
+
 
 
